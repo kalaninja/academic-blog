@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "&copy; {year} Alexander Kalankhodzhaev"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-80967351-2"
 
 ############################
 ## Advanced options below ##
