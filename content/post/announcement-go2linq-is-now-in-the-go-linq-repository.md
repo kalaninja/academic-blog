@@ -1,6 +1,7 @@
 +++
 tags = ["go-linq", "go2linq"]
 categories = ["Go"]
+projects = ["go-linq"]
 title = "Announcement: go2linq is now in the go-linq repository"
 date = 2016-09-10T17:22:00+03:00
 draft = false

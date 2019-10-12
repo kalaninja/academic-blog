@@ -1,6 +1,7 @@
 +++
 tags = ["generics", "go-linq", "golang", "linq"]
 categories = ["Go"]
+projects = ["go-linq"]
 title = "go-linq v3.0: Emulating generics in Go"
 date = 2017-02-24T20:37:00+03:00
 draft = false

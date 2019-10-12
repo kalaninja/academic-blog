@@ -1,6 +1,7 @@
 +++
 tags = ["go-linq", "go2linq", "golang", "iterator", "linq"]
 categories = ["Go"]
+projects = ["go-linq"]
 title = "Manipulating Data With Iterators in Go"
 date = 2016-07-16T23:53:00+03:00
 draft = false
