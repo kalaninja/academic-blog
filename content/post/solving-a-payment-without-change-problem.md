@@ -1,5 +1,5 @@
 +++
-tags = ["algorithm", "c#", "dynamic programming", "subset sum problem"]
+tags = ["algorithm", "csharp", "dynamic programming", "subset sum problem"]
 categories = ["Algorithms"]
 title = "Solving a payment without change problem"
 math = true

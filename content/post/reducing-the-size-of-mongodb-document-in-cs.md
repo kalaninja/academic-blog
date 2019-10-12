@@ -1,5 +1,5 @@
 +++
-tags = ["c#", "mongodb"]
+tags = ["csharp", "mongodb"]
 categories = ["DB"]
 title = "Reducing the size of MongoDB document in c#"
 date = 2017-04-15T14:17:00+03:00
