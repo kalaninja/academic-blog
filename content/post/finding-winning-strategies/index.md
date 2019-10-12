@@ -58,7 +58,7 @@ First of all lets try to solve the situation in a straightforward manner. So, **
 
 ### Backward induction
 
-First we need to build a complete game tree. [![](http://kalan.rocks/wp-content/uploads/2017/08/gametree.svg)](http://kalan.rocks/wp-content/uploads/2017/08/gametree.svg) Then, assuming the fact that **Player 3**, who is making the last choice, always chooses what is best for himself, the tree can be reduced to the following [![](http://kalan.rocks/wp-content/uploads/2017/08/gametree1.svg)](http://kalan.rocks/wp-content/uploads/2017/08/gametree1.svg) The same assumption for **Player 2** [![](http://kalan.rocks/wp-content/uploads/2017/08/gametree2.svg)](http://kalan.rocks/wp-content/uploads/2017/08/gametree2.svg) When the tree is fully reduced we can see that **Player 1** is really choosing only between **B** and **C** and furthermore if he wants to get a better result in the end he has to sacrifice a better option in the beginning.
+First we need to build a complete game tree. [![](./gametree.svg)](./gametree.svg) Then, assuming the fact that **Player 3**, who is making the last choice, always chooses what is best for himself, the tree can be reduced to the following [![](./gametree1.svg)](./gametree1.svg) The same assumption for **Player 2** [![](./gametree2.svg)](./gametree2.svg) When the tree is fully reduced we can see that **Player 1** is really choosing only between **B** and **C** and furthermore if he wants to get a better result in the end he has to sacrifice a better option in the beginning.
 
 ## Coding
 Now back to our problem. Let’s code the backward induction algorithm using java this time. First, we need to store the changing state of the game.
