@@ -3,7 +3,6 @@ tags = ["algorithm", "csharp", "dynamic programming", "subset sum problem"]
 categories = ["Algorithms"]
 title = "Solving a payment without change problem"
 math = true
-markup = "mmark"
 date = 2016-07-30T23:21:00+03:00
 draft = false
 +++
